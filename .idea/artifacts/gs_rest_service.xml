@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="gs-rest-service">
+    <output-path>$PROJECT_DIR$/classes/artifacts/gs_rest_service</output-path>
+    <root id="root" />
+  </artifact>
+</component>
